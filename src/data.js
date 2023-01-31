@@ -4,15 +4,15 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 // images portafolio
-import image1 from './assets/portfolio/arrayDestruct.jpg'
-import image2 from './assets/portfolio/installNode.jpg'
-import image3 from './assets/portfolio/navbar.jpg'
-import image4 from './assets/portfolio/PERN.png'
-import image5 from './assets/portfolio/reactParallax.jpg'
-import image6 from './assets/portfolio/reactPortfolio2.jpg'
-import image7 from './assets/portfolio/reactSmooth.jpg'
-import image8 from './assets/portfolio/reactWeather.jpg'
-import image9 from './assets/portfolio/usestate.jpg'
+import portafolio_proyecto from './assets/portfolio/portafolio_proyect.png'
+import poke_api from './assets/portfolio/poke_api.png'
+import proyecto_belleza from './assets/portfolio/belleza_proyecto.png'
+import pern from './assets/portfolio/PERN.png'
+import clima from './assets/portfolio/clima.png'
+import cripto from './assets/portfolio/criptoCotizador.png'
+import calculadora from './assets/portfolio/calculadora.png'
+import travel from './assets/portfolio/travel.png'
+import mokepon from './assets/portfolio/mokepon.png'
 
 // tecnologias
 import html from './assets/experience/html.png'
@@ -98,39 +98,48 @@ export const links = [
 export const portafolio = [
   {
     id: 1,
-    src: image1
+    src: portafolio_proyecto,
+    code:"https://github.com/JP85118/Portafolio_react"
   },
   {
     id: 2,
-    src: image2
+    src: poke_api,
+    code:"https://github.com/JP85118/poke_api"
   },
   {
     id: 3,
-    src: image3
+    src: proyecto_belleza,
+    code:"https://github.com/JP85118/proyectBelleza"
   },
   {
     id: 4,
-    src: image4
+    src: pern,
+    code:"https://github.com/JP85118/proyecto_PERN"
   },
   {
     id: 5,
-    src: image5
+    src: clima,
+    code:"https://github.com/JP85118/Portafolio_react"
   },
   {
     id: 6,
-    src: image6
+    src: cripto,
+    code:"https://github.com/JP85118/proyectBelleza"
   },
   {
     id: 7,
-    src: image7
+    src: calculadora,
+    code:"https://github.com/JP85118/calculadora"
   },
   {
     id: 8,
-    src: image8
+    src: travel,
+    code:"https://github.com/JP85118/practica_travel"
   },
   {
     id: 9,
-    src: image9
+    src: mokepon,
+    code:"https://github.com/JP85118/Portafolio_react"
   },
 ]
 

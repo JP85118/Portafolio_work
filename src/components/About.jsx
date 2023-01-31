@@ -1,4 +1,3 @@
-import React from 'react'
 
 const About = () => {
   return (
@@ -8,11 +7,11 @@ const About = () => {
           <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi magni labore officiis exercitationem accusamus, vel error maiores architecto reprehenderit sunt laborum pariatur mollitia, quas dolores iusto sapiente quae! Eveniet, tempora!
+        I am a developer who is very passionate about this work, I like sports practicing MTB periodically, I spend my day learning and practicing the technologies learned
         </p>
         <br />
         <p className='text-xl'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi aliquam eius voluptate ipsam repellendus ea nihil cupiditate. Ut est laboriosam voluptates fugiat natus aperiam, ipsum eum. Quia neque repellendus repudiandae.
+        I really like to interact and be curious about information related to technology, I am constantly learning to improve as a person and as a developer.
         </p>
       </div>
     </div>
