@@ -12,7 +12,7 @@ import clima from './assets/portfolio/clima.png'
 import cripto from './assets/portfolio/criptoCotizador.png'
 import calculadora from './assets/portfolio/calculadora.png'
 import travel from './assets/portfolio/travel.png'
-import mokepon from './assets/portfolio/mokepon.png'
+import loginNative from './assets/portfolio/login_native.png'
 
 // tecnologias
 import html from './assets/experience/html.png'
@@ -24,7 +24,7 @@ import nextjs from './assets/experience/nextjs.png'
 import node from './assets/experience/node.png'
 import reactImg from './assets/experience/react.png'
 import tailwind from './assets/experience/tailwind.png'
-import graphql from './assets/experience/graphql.png'
+import native from './assets/experience/reactNative.png'
 import docker from './assets/experience/docker.png'
 import sass from './assets/experience/sass.png'
 
@@ -138,8 +138,8 @@ export const portafolio = [
   },
   {
     id: 9,
-    src: mokepon,
-    code:"https://github.com/JP85118/Portafolio_react"
+    src: loginNative,
+    code:"https://github.com/JP85118/login_native"
   },
 ]
 
@@ -201,9 +201,9 @@ export const techs = [
   },
   {
     id: 10,
-    src: graphql,
-    title: 'GraphQL',
-    style: 'shadow-pink-400'
+    src: native,
+    title: 'React Native',
+    style: 'shadow-blue-500'
   },
   {
     id: 11,
