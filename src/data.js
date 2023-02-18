@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 // images portafolio
-import portafolio_proyecto from './assets/portfolio/portafolio_proyect.png'
+import clon_video from './assets/portfolio/clon_video.png'
 import poke_api from './assets/portfolio/poke_api.png'
 import proyecto_belleza from './assets/portfolio/belleza_proyecto.png'
 import pern from './assets/portfolio/PERN.png'
@@ -98,8 +98,8 @@ export const links = [
 export const portafolio = [
   {
     id: 1,
-    src: portafolio_proyecto,
-    code:"https://github.com/JP85118/Portafolio_react"
+    src: clon_video,
+    code:"https://github.com/JP85118/clon_video"
   },
   {
     id: 2,
